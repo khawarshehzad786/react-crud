@@ -1,0 +1,22 @@
+.form {
+  width: 80%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+
+  /* .btn{
+    align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  } */
+}
+.createDiv{
+  /* width: 60%; */
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  margin: auto;
+}
